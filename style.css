@@ -18,3 +18,13 @@ body{
     border: 1px solid yellow;
     border-radius: 20px;
 }
+
+
+
+#result{
+    margin-top: 20px;
+    font-size: 24px;
+    border: 1px dashed black;
+    padding: 20px 20px;
+    background-color: rgb(205, 248, 248);
+}
